@@ -18,7 +18,7 @@ clip: {
     autoPlay:false,
     autoBuffering:true,
     scaling:'fit',
-    url: 'http://localhost:8080/stream/sandonga.mp4',
+    url: 'http://localhost:8080/streaming-client/stream/sandonga.mp4',
     captionUrl: 'http://localhost:8080/streaming-client/Luther-02x01-SP.srt',
 	provider: 'lighthttpd'
 },
